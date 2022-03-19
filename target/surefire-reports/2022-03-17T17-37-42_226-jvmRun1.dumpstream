@@ -1,0 +1,4 @@
+# Created at 2022-03-17T17:37:45.741
+
+tests.StoreAppTests.validateSigniInFunctionalityTest() is depending on method public void tests.StoreAppTests.validateRegisterFunctionalityTest(), which is not annotated with @Test or not included.
+
